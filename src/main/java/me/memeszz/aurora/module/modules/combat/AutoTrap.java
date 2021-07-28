@@ -157,11 +157,11 @@ public class AutoTrap extends Module {
         }
 
 
-        ä
+        
                 //  based on view direction (or relative direction of target to player)
                 //  (add full/half n/e/s/w patterns to append dynamically)
 
-                ä
+                
         // sort them by pos y up AND start building behind target
 
         int blocksPlaced = 0;
